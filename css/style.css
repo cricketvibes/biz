@@ -229,15 +229,15 @@ h6 {
 
 #intro h2 {
   color: #fff;
-  margin-bottom: 30px;
-  font-size: 48px;
+  margin-bottom: 20px;
+  font-size: 80px;
   font-weight: 700;
 }
 
 #intro p {
   width: 80%;
-  margin: 0 auto 30px auto;
-  color: #fff;
+  margin: 50px auto 100px auto;
+  color: #fff
 }
 
 #intro .carousel-fade {
